@@ -1,5 +1,9 @@
-Historial de cambios:
+# Trabajo Práctico Git y GitHub
 
-- Se agregó estructura HTML inicial
-- Se incorporó archivo CSS
-- Se realizaron modificaciones desde GitHub
+Alumno: Emanuel Aguirre
+
+## Cambios desde GitHub
+Este archivo fue editado desde la web.
+
+## Actualización
+Se realizaron modificaciones adicionales.
